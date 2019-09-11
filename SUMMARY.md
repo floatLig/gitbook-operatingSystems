@@ -13,4 +13,6 @@
 ## 第二章 进程管理
 
 * [2.1 进程的概念](di-er-zhang-jin-cheng-guan-li/2.1-jin-cheng-de-gai-nian.md)
+* [2.4 线程概念](di-er-zhang-jin-cheng-guan-li/2.4-xian-cheng-gai-nian.md)
+* [2.5 进程间的同步与互斥](di-er-zhang-jin-cheng-guan-li/2.5-jin-cheng-jian-de-tong-bu-yu-hu-chi.md)
 
